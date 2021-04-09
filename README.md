@@ -40,16 +40,36 @@ MLB Pitch Data 2015-2018
 相关的数据文件不要上传到代码仓库中
 
 ## 选择数据集
+
+
 1. Wine Review
 
 winemag-data_first150k.csv
+
 winemag-data-130k-v2.csv
+
 
 2.Oakland Crime Statistics 2011 to 2016
 
 records-for-2011.csv
+
 records-for-2012.csv
+
 records-for-2013.csv
+
 records-for-2014.csv
+
 records-for-2015.csv
+
 records-for-2016.csv
+
+##目录结构
+├── Readme.md                   // help
+
+├── OaklandCrime.py             // OaklandCrime数据集分析代码
+
+├── wine_main.py                // wine_main分析代码
+
+├── 数据挖掘第一次作业.ipynb     
+
+└── 数据挖掘第一次作业.pdf
